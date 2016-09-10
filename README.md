@@ -1,2 +1,2 @@
-ÀûÓÃvuforiasdkÖÆ×÷µÄÒ»¸öAR½âÃÜÐ¡ÓÎÏ·
-Vuforia °æ±¾£º5.0
+ï»¿åˆ©ç”¨vuforiasdkåˆ¶ä½œçš„ä¸€ä¸ªARè§£å¯†å°æ¸¸æˆ
+Vuforia ç‰ˆæœ¬ï¼š5.0
