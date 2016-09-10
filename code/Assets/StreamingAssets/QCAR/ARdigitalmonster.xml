@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Computer" size="640.000000 480.000000" />
+    <ImageTarget name="3_3" size="164.000000 235.688629" />
+    <ImageTarget name="3_2" size="164.000000 240.000000" />
+    <ImageTarget name="3_1" size="164.000000 238.545456" />
+    <ImageTarget name="2_3" size="164.000000 241.416153" />
+    <ImageTarget name="2_2" size="164.000000 241.472397" />
+    <ImageTarget name="2_1" size="164.000000 237.000000" />
+    <ImageTarget name="1_3" size="164.000000 237.901230" />
+    <ImageTarget name="1_2" size="164.000000 235.000000" />
+    <ImageTarget name="pinpan" size="400.000000 298.000000" />
+    <ImageTarget name="pintuzhonggao" size="453.000000 686.000000" />
+    <ImageTarget name="laotou" size="512.000000 384.000000" />
+    <ImageTarget name="taii" size="512.000000 384.000000" />
+    <ImageTarget name="MM" size="512.000000 384.000000" />
+    <ImageTarget name="guangzilang" size="512.000000 384.000000" />
+    <ImageTarget name="azhu" size="512.000000 384.000000" />
+    <ImageTarget name="ahe" size="512.000000 384.000000" />
+  </Tracking>
+</QCARConfig>
